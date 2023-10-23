@@ -1,7 +1,7 @@
 # EnhanceGE
 Enhance Xperia Game Enhancer
 
-![](images/Screenshot.png)
+![preview](images/Screenshot.png)
 
 Remove limitation
 - App list blacklist
